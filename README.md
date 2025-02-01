@@ -1,10 +1,7 @@
 
-
 ## **About Me**
 
-## About Me
-
-I'm a passionate Machine Learning Engineer with 3+ years of experience building innovative AI solutions. I excel in deep learning, computer vision, and NLP—transforming complex challenges into scalable, production-ready systems. I specialize in end-to-end ML pipelines, from data preprocessing to cloud deployments and CI/CD automation using GitHub Actions, delivering efficient, high-performance results.
+I'm a **passionate Machine Learning Engineer** with **3+ years** of experience building **innovative AI solutions**. I excel in **deep learning, computer vision, and NLP**—transforming complex challenges into **scalable, production-ready systems**. I specialize in **end-to-end ML pipelines**, from **data preprocessing** to **cloud deployments** and **CI/CD automation using GitHub Actions**, delivering **efficient, high-performance results**.  
 
 ---
 
