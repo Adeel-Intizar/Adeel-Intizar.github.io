@@ -2,7 +2,12 @@
 
 ## **About Me**
 
-I am a **Machine Learning Engineer** with over **3 years** of experience in developing and deploying machine learning models using Python, TensorFlow, and PyTorch. My expertise lies in identifying patterns in large datasets, optimizing algorithms, and ensuring model accuracy. I have a passion for solving complex problems through data-driven solutions. My goal is to leverage my skills in machine learning, deep learning, and data science to create impactful solutions that drive business success.
+I am a **passionate Machine Learning Engineer** with **3+ years of experience** in delivering innovative AI solutions that create real-world impact. My expertise lies in **deep learning, computer vision, natural language processing (NLP), and advanced machine learning techniques**, transforming complex challenges into **intelligent, scalable systems**.  
+
+I specialize in **end-to-end ML pipeline development**, covering the **entire ML lifecycle**, from **data preprocessing and model training** to **scalable cloud deployment** and **CI/CD automation using GitHub Actions**. By implementing **high-performance AI architectures**, I ensure that the solutions I build are **efficient, precise, and production-ready**.  
+
+I thrive on **pushing technological boundaries** and am dedicated to developing **scalable, real-time AI applications** that drive measurable results. Whether it's **optimizing deep learning models, deploying AI-powered automation, or enhancing security through intelligent surveillance systems**, I am committed to **delivering impactful AI innovations**.  
+
 
 ---
 
