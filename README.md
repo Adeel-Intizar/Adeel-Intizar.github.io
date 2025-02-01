@@ -2,12 +2,9 @@
 
 ## **About Me**
 
-I am a **passionate Machine Learning Engineer** with **3+ years of experience** in delivering innovative AI solutions that create real-world impact. My expertise lies in **deep learning, computer vision, natural language processing (NLP), and advanced machine learning techniques**, transforming complex challenges into **intelligent, scalable systems**.  
+## About Me
 
-I specialize in **end-to-end ML pipeline development**, covering the **entire ML lifecycle**, from **data preprocessing and model training** to **scalable cloud deployment** and **CI/CD automation using GitHub Actions**. By implementing **high-performance AI architectures**, I ensure that the solutions I build are **efficient, precise, and production-ready**.  
-
-I thrive on **pushing technological boundaries** and am dedicated to developing **scalable, real-time AI applications** that drive measurable results. Whether it's **optimizing deep learning models, deploying AI-powered automation, or enhancing security through intelligent surveillance systems**, I am committed to **delivering impactful AI innovations**.  
-
+I'm a passionate Machine Learning Engineer with 3+ years of experience building innovative AI solutions. I excel in deep learning, computer vision, and NLP—transforming complex challenges into scalable, production-ready systems. I specialize in end-to-end ML pipelines, from data preprocessing to cloud deployments and CI/CD automation using GitHub Actions, delivering efficient, high-performance results.
 
 ---
 
