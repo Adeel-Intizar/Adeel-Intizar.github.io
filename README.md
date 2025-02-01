@@ -1,74 +1,8 @@
 
-## **Contact Information**
-
-- **Phone:** +92 313 495 6461
-- **Email:** [adeelintizar2015@gmail.com](mailto:adeelintizar2015@gmail.com)
-- **Location:** Faisalabad, Punjab 38000
-- **LinkedIn:** [linkedin.com/in/adeelintizar](https://www.linkedin.com/in/adeelintizar/)
-- **GitHub:** [github.com/Adeel-Intizar](https://github.com/Adeel-Intizar)
-
----
 
 ## **About Me**
 
-I am a **Machine Learning Engineer** with over **3 years** of experience in developing and deploying machine learning models using Python, TensorFlow, and PyTorch. My expertise lies in identifying patterns in large datasets, optimizing algorithms, and ensuring model accuracy. I have a passion for solving complex problems through data-driven solutions, and I’ve contributed to projects ranging from AI-based weapon detection systems to medical knowledge assistants and threatening text detection systems. My goal is to leverage my skills in machine learning, deep learning, and data science to create impactful solutions that drive business success.
-
----
-
-## **Skills**
-
-### **Technical Skills**
-- **Machine Learning & AI:** Machine Learning, Deep Learning, Data Science, Computer Vision, NLP, AI Agents
-- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, HuggingFace, CrewAI, LangChain
-- **Web Development:** Flask, FastAPI, Gradio, Streamlit
-- **Cloud Platforms:** AWS, DigitalOcean, Heroku, PythonAnywhere
-- **DevOps:** Docker, CI/CD (GitHub Actions)
-- **Databases:** FAISS Indexing, Vector DBs
-
-### **Soft Skills**
-- Strong analytical and problem-solving abilities
-- Excellent communication and teamwork
-- Methodical, detail-oriented approach with a focus on results
-- Quick learner with a solid work ethic
-
----
-
-## **Professional Experience**
-
-### **Machine Learning Engineer**  
-**Tecbeck Pvt. Ltd., Faisalabad, Punjab**  
-*March 2022 – Present*
-
-- **AI-Based Weapon Detection System:** Led a team of 5 to develop a surveillance system processing 12 simultaneous camera feeds. Achieved **99.5% mAP50 accuracy** by fine-tuning threat detection models.
-- **Low-Latency Mobile Alert System:** Designed a mobile alert system with video evidence and implemented automated AWS S3 uploads for secure data management.
-- **RAG-Based Medical Knowledge Assistant:** Developed a Retrieval-Augmented Generation (RAG) based assistant for context-aware medical responses, achieving **95% recall within 200ms latency** on a 10M record dataset.
-- **Threatening Text Detection:** Built a system using TF-IDF, word embeddings, and advanced NLP (BERT, SVM) to achieve **98% accuracy** in detecting threatening content.
-- **Model Deployment:** Successfully deployed models into production environments with high scalability requirements.
-
-### **Data Analyst**  
-**Tracko Interactive Services Pvt. Ltd., Faisalabad, Punjab**  
-*August 2021 – March 2022*
-
-- **ETL Automation & Tableau Dashboards:** Automated ETL processes and developed dashboards, increasing self-service analytics adoption by **60%** and improving forecast accuracy by **20%**.
-- **Data Integration:** Led projects to streamline manual reporting, reducing data manipulation time by **30%**.
-
----
-
-## **Education**
-
-### **BS in Computer Science**  
-**GC University Faisalabad**  
-*August 2017 – July 2021*  
-**CGPA:** 3.56 / 4.0
-
----
-
-## **Certifications**
-
-- **Machine Learning with Python** *(IBM)*  
-  *Completed: March 2018 – August 2018*
-- **Data Scientist** *(DataCamp)*  
-  *Completed: January 2019 – June 2019*
+I am a **Machine Learning Engineer** with over **3 years** of experience in developing and deploying machine learning models using Python, TensorFlow, and PyTorch. My expertise lies in identifying patterns in large datasets, optimizing algorithms, and ensuring model accuracy. I have a passion for solving complex problems through data-driven solutions. My goal is to leverage my skills in machine learning, deep learning, and data science to create impactful solutions that drive business success.
 
 ---
 
@@ -111,6 +45,77 @@ I am a **Machine Learning Engineer** with over **3 years** of experience in deve
   - Leveraged **TF-IDF, word embeddings, SVM, and BERT** to develop a high-performance classification model.
   - Achieved **98% accuracy** in detecting harmful content, ensuring robust moderation and risk mitigation.
 - **Outcome:** Enabled proactive identification of harmful content, making digital spaces safer for users.
+
+---
+
+## **Open Source Contributions**  
+
+### 🚀 [Xtreme-Vision Library](https://github.com/Adeel-Intizar/Xtreme-Vision)  
+A high-level Python library designed to simplify computer vision tasks. Whether you’re a student, developer, or researcher, this toolkit empowers you to implement state-of-the-art **object detection, segmentation, and pose estimation** with minimal code.  
+*Technologies: Python, OpenCV, TensorFlow/PyTorch*  
+
+---
+
+### 🎨 [Exactron](https://github.com/Adeel-Intizar/Exactron)  
+An advanced Python API that consolidates multiple AI-powered tasks. From **background removal and image colorization to photo-to-sketch conversion**, Exactron demonstrates a versatile application of deep learning for image processing challenges.  
+*Technologies: Python, Deep Learning, TensorFlow/Keras*  
+
+---
+
+## **Professional Experience**
+
+### **Machine Learning Engineer**  
+**Tecbeck Pvt. Ltd., Faisalabad, Punjab**  
+*March 2022 – Present*
+
+- **AI-Based Weapon Detection System:** Led a team of 5 to develop a surveillance system processing 12 simultaneous camera feeds. Achieved **99.5% mAP50 accuracy** by fine-tuning threat detection models.
+- **Low-Latency Mobile Alert System:** Designed a mobile alert system with video evidence and implemented automated AWS S3 uploads for secure data management.
+- **RAG-Based Medical Knowledge Assistant:** Developed a Retrieval-Augmented Generation (RAG) based assistant for context-aware medical responses, achieving **95% recall within 200ms latency** on a 10M record dataset.
+- **Threatening Text Detection:** Built a system using TF-IDF, word embeddings, and advanced NLP (BERT, SVM) to achieve **98% accuracy** in detecting threatening content.
+- **Model Deployment:** Successfully deployed models into production environments with high scalability requirements.
+
+### **Data Analyst**  
+**Tracko Interactive Services Pvt. Ltd., Faisalabad, Punjab**  
+*August 2021 – March 2022*
+
+- **ETL Automation & Tableau Dashboards:** Automated ETL processes and developed dashboards, increasing self-service analytics adoption by **60%** and improving forecast accuracy by **20%**.
+- **Data Integration:** Led projects to streamline manual reporting, reducing data manipulation time by **30%**.
+
+---
+
+## **Skills**
+
+### **Technical Skills**
+- **Machine Learning & AI:** Machine Learning, Deep Learning, Data Science, Computer Vision, NLP, AI Agents
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, HuggingFace, CrewAI, LangChain
+- **Web Development:** Flask, FastAPI, Gradio, Streamlit
+- **Cloud Platforms:** AWS, DigitalOcean, Heroku, PythonAnywhere
+- **DevOps:** Docker, CI/CD (GitHub Actions)
+- **Databases:** FAISS Indexing, Vector DBs, SQL
+
+### **Soft Skills**
+- Strong analytical and problem-solving abilities
+- Excellent communication and teamwork
+- Methodical, detail-oriented approach with a focus on results
+- Quick learner with a solid work ethic
+
+---
+
+## **Education**
+
+### **BS in Computer Science**  
+**GC University Faisalabad**  
+*August 2017 – July 2021*  
+**CGPA:** 3.56 / 4.0
+
+---
+
+## **Certifications**
+
+- **Machine Learning with Python** *(IBM)*  
+  *Completed: March 2018 – August 2018*
+- **Data Scientist** *(DataCamp)*  
+  *Completed: January 2019 – June 2019*
 
 ---
 
